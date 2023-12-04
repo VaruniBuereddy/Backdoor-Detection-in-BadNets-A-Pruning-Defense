@@ -10,7 +10,7 @@ Using a backdoored facial recognition neural network, this repository applies th
 - [Folder Structure](#Folder-Structure)
 - [Architecture](#Architecture)
 - [Usage](#Usage)
-- [Evaluation](#Evaluating the Pruning Defense Model On Test set)
+- [Evaluation](#Evaluating-the-Pruning-Defense-Model-On-Test-set)
 - [Results and Observations](#Results-and-Observations)
 
 # Dependencies
