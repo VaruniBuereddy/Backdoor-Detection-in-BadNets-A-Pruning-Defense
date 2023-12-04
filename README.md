@@ -10,7 +10,7 @@ Using a backdoored facial recognition neural network, this repository applies th
 - [Folder Structure](#Folder-Structure)
 - [Architecture](#Architecture)
 - [Usage](#Usage)
-- [Evaluation](#evaluating-the-backdoored-model)
+- [Evaluation](#Evaluating the Pruning Defense Model On Test set)
 - [Results and Observations](#Results-and-Observations)
 
 # Dependencies
@@ -20,6 +20,13 @@ Using a backdoored facial recognition neural network, this repository applies th
    4. Matplotlib 2.2.2
    5. H5py 2.9.0
    6. TensorFlow-gpu 1.15.2
+   First clone this repository
+   ```bash
+   git clone https://github.com/VaruniBuereddy/Backdoor-Detection-in-BadNets-A-Pruning-Defense.git
+   ```
+   ```bash
+   pip install requirements.txt
+   ```
    
 # Dataset
    1. Download the validation and test datasets from [here](https://drive.google.com/drive/folders/1Rs68uH8Xqa4j6UxG53wzD0uyI8347dSq?usp=sharing) and store them under `data/` directory.
