@@ -137,6 +137,8 @@ $ python evaluate_repaired_net.py <threshold value>
 |---|---|---|---|
 | Clean Accuracy | `95.90%` | 92.29% | 85.54% |
 | ASR | 100% | 99.98% | `77.208%` | 
+
+
 Observations:
 1. Trade-off between Size and Accuracy: Pruning Defense is a trade-off between model
 size and accuracy. By removing certain weights or neurons, the model becomes more
